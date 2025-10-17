@@ -53,3 +53,8 @@ a {
   text-decoration: none;
   color: black;
 }
+
+footer {
+  margin-top: 50px;
+  justify-self: flex-end;
+}
